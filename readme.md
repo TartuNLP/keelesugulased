@@ -1,17 +1,8 @@
 # keelesugulased (linguistic relatives)
 
-Collections of linguistic data for machine translation of Finno-Ugric languages, having few speakers and/or digital resources.
+Vähese rääkijate arvu ja/või keelematerjaliga soome-ugri keelte andmestik. Kogumise eesmärgiks on eeskätt masintõlge.
 
-Original source:
+Algseis on kataloogis import
 
-https://murre.ut.ee/mkweb/
-
-##Votic 
-18 texts, 626 sentences,  43899 tokens
-
-
-##Livonian
-97 texts, 4324 sentences,  74948 tokens
-
-
+Rahastus: Eesti Teadusagentuuri projekt PRG2006 "Soome-ugri väheste ressurssidega keelte ja murrete keeletehnoloogia" 
 
