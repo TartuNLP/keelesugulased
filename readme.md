@@ -1,6 +1,6 @@
-# our-language-family
+# keelesugulased (linguistic relatives)
 
-Linguistic data for machine translation for Finno-Ugric languages, having few speakers and/or digital resources.
+Collections of linguistic data for machine translation of Finno-Ugric languages, having few speakers and/or digital resources.
 
 Original source:
 
